@@ -1,4 +1,4 @@
-# <img src="./depCode.png" width="35px"> James O'Kane <img src="./depCode.png" width="35px">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=James+O'Kane;Daring+Developer;Engineering+Extraordinaire)](https://git.io/typing-svg)
 
 
 
