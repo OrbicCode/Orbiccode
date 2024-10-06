@@ -30,8 +30,11 @@
 
 🔭 Aspiring Full-Stack Developer falling in love with the daily learning, growing and challenges
 <br><br>
-😍 At the moment nothing beats the rush of constantly getting stuck and solving problems
+😍 At the moment nothing is beating the rush of constantly getting stuck and solving problems
 <br><br>
+📚 <a href="https://schoolofcode.co.uk/">School of Code</a> helped mould me into a developer
+<br><br>
+
 ## I'm normally
 
 <br>
