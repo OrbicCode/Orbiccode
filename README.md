@@ -45,7 +45,7 @@
         <tr>
           <th>HP</th>
           <th><img src="https://geps.dev/progress/30?dangerColor=f94144&warningColor=f94144&successColor=f94144"></th>
-          <th>Mana</th>
+          <th>MP</th>
           <th><img src="https://geps.dev/progress/9001?dangerColor=1982c4&warningColor=1982c4&successColor=1982c4"></th>
         </tr>
     </table> 
