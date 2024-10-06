@@ -1,21 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Shadows+Into+Light&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Sankofa+Display&size=75&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" />
 </h1>
 
-## HP: ![](https://geps.dev/progress/30?dangerColor=ef476f)
-## Mana: ![](https://geps.dev/progress/9000?successColor=118ab2) if(!mana) {☕️.refill()}
-## XP: 
-<!--
-**Orbiccode/Orbiccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>HP <br>
+  <img src="https://geps.dev/progress/30?dangerColor=ef476f">
+</span>
 
-Here are some ideas to get you started:
+<span align="right">MP <br>
+  <img src="https://geps.dev/progress/9001?successColor=118ab2">
+  <p>if(!mana) {☕️.refill()}</p>
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## XP
