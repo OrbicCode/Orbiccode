@@ -15,6 +15,14 @@
     <td><img src="https://geps.dev/progress/9001?successColor=118ab2"></td>
   </tr>
 </table>
-<p>I'm a full-stack developer</p>
+<p>YOU SHALL NOT NOT PASS!!<br>
+    And look at some cool projects
+</p>
 
  ## XP
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,vite,git,github,postman,figma" />
+  </a>
+</p>
