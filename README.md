@@ -85,7 +85,7 @@
 <hr>
 
 <!-- Snake -->
-Snakey Wakey Commits + Bacey
+Snakey Wakey Commits + Bakey
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orbiccode/orbiccode/output/github-contribution-grid-snake-dark.svg">
