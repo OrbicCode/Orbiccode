@@ -11,5 +11,10 @@
   <p>if(!mana) {☕️.refill()}</p>
 </span>
 
+<div style="display: flex; justify-content: space-between;">
+<p>This text is on the left side.</p>
+<p>This text is on the right side.</p>
+</div>
+
 
 ## XP
