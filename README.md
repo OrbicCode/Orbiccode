@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=James+O'Kane;Daring+Developer;Engineering+Extraordinaire)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=James+O'Kane;Daring+Developer;Engineering+Extraordinaire)](https://git.io/typing-svg)
 
 
 
