@@ -1,4 +1,4 @@
-# 🔭 James O'Kane 🎮
+# <img src="./depCode.png" width="35px"> James O'Kane <img src="./depCode.png" width="35px">
 
 
 
