@@ -4,9 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bb5008&size=25&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi,+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" alt="scrolling intro text"/>
 </h1>
 
+<br>
+
 <!-- Gandalf -->
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFxMWxkNGxqaGl1bGVvODI2ZHR6bnB4dDFzdTV0YXFteXd0YjZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/BZMggpshzrPvbfQHIF/giphy.gif" alt="Gandalf, you shall not pass gif">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhraWo2aml4ejE4MTJoeXNwZjNpY3N1eTIzdzZncWJjcXh5dDRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njYrp176NQsHS/giphy.gif" alt="Gandalf, you shall not pass gif">
 </div>
 
 <!-- Gif text -->
