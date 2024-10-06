@@ -1,9 +1,11 @@
-<link rel="stylesheet" href="styles.css">
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Sankofa+Display&size=75&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" />
 </h1>
+
+<div>
+    <a href="linkedin.com/in/james-o-kane-570b71314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 <table align="right">
   <tr>
