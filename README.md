@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="styles.css">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Sankofa+Display&size=75&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" />
