@@ -35,7 +35,20 @@
 📚 <a href="https://schoolofcode.co.uk/">School of Code</a> was there in the moulding of me as a developer
 <br><br>
 ⏳ Currently working on my portfolio and contributing to ReelMagic my School of Code team's final project
-<br><br>
+<br><be>
+
+<br>
+
+<!-- XP-->
+ # 🛠️ XP 🛠️
+
+<!-- Skills -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" alt="techstack badges"/>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,nextjs,vite,git,github,postman,figma" alt="techstack badges"/>
+</div>
 
 ## 🧐 I'm normally
 
@@ -55,22 +68,10 @@
     <img src="https://img.shields.io/badge/Anime-ab2836?style=for-the-badge" />
 </div>
 
-<br>
-
-<!-- XP-->
- # 🛠️ XP 🛠️
-
-<!-- Skills -->
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" alt="techstack badges"/>
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,nextjs,vite,git,github,postman,figma" alt="techstack badges"/>
-</div>
-
 <hr>
 
 <!-- Snake -->
+Snakey Wakey Eggs + Bacey
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orbiccode/orbiccode/output/github-contribution-grid-snake-dark.svg">
@@ -78,3 +79,5 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/orbiccode/orbiccode/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
+
+<hr>
