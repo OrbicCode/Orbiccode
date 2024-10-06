@@ -13,10 +13,4 @@
   <p>if(!mana) {☕️.refill()}</p>
 </span>
 
-<div>
-<p class="left-block">This text is on the left side.</p>
-<p class="right-block">This text is on the right side.</p>
-</div>
-
-
 ## XP
