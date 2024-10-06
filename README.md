@@ -16,7 +16,6 @@
     🧙‍♂️ YOU SHALL NOT NOT PASS!! 🧙‍♂️ <br>
     👀 And look at some cool projects 👀 <br>
     <br>
-    if (!energy) {☕️.drink()}
 </h3>
 
 # 🤷‍♂️ About me
@@ -39,7 +38,20 @@
 ⏳ Currently working on my portfolio and contributing to ReelMagic my School of Code team's final project
 <br><be>
 
-<br>
+<be>
+
+<div align="center">
+    <table>
+        <tr>
+          <th>HP</th>
+          <th><img src="https://geps.dev/progress/30?dangerColor=f94144&warningColor=f94144&successColor=f94144"></th>
+          <th>Mana</th>
+          <th><img src="https://geps.dev/progress/9001?dangerColor=1982c4&warningColor=1982c4&successColor=1982c4"></th>
+        </tr>
+    </table> 
+</div>
+
+<p align="center">if (!mana) {☕️.drink()}</p>
 
 <!-- XP-->
  # 🛠️ XP 🛠️
