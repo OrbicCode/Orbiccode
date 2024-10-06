@@ -82,4 +82,6 @@ Snakey Wakey Commits + Bacey
 
 <hr>
 
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=orbiccode&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=orbiccode&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
