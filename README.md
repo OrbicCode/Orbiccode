@@ -1,7 +1,7 @@
 
 <!-- typing title -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bb5008&size=25&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" alt="scrolling intro text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bb5008&size=25&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi,+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" alt="scrolling intro text"/>
 </h1>
 
 <!-- Gandalf -->
@@ -17,7 +17,7 @@
     if (!energy) {☕️.drink()}
 </h3>
 
-# About me
+# 🤷‍♂️ About me
 
 <br>
 
@@ -32,10 +32,12 @@
 <br><br>
 😍 At the moment nothing is beating the rush of constantly getting stuck and solving problems
 <br><br>
-📚 <a href="https://schoolofcode.co.uk/">School of Code</a> helped mould me into a developer
+📚 <a href="https://schoolofcode.co.uk/">School of Code</a> was there in the moulding of me as a developer
+<br><br>
+⏳ Currently working on my portfolio and contributing to ReelMagic my School of Code team's final project
 <br><br>
 
-## I'm normally
+## 🧐 I'm normally
 
 <br>
 
