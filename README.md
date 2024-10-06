@@ -1,7 +1,7 @@
 
 <!-- typing title -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=25&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" alt="scrolling intro text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=bb5008&size=25&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" alt="scrolling intro text"/>
 </h1>
 
 <!-- Gandalf -->
@@ -37,17 +37,17 @@
 <br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" />
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
-    <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/freecodecamp-053c5e?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/scrimba-1d3958?style=for-the-badge&logo=scrimba&logoColor=white" />
+    <img src="https://img.shields.io/badge/Duolingo-353652?style=for-the-badge&logo=Duolingo&logoColor=black" />
+    
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-    <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+    <img src="https://img.shields.io/badge/Music_Production-4c334d?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gaming-643047?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Movies-7c2e41?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Comics-942b3b?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Anime-ab2836?style=for-the-badge" />
 </div>
 
 <br>
