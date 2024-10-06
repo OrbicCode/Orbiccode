@@ -1,6 +1,6 @@
-<div>[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=James+O'Kane;Daring+Developer;Engineering+Extraordinaire)](https://git.io/typing-svg)</div>
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Shadows+Into+Light&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+James+O'Kane;+Daring+Developer;Engineering+Extraordinaire" />
+</h1>
 
 <!--
 **Orbiccode/Orbiccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
